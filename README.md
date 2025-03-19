@@ -29,3 +29,6 @@ VITE_FIREBASE_KEY=<firebase api key>
 ```
 Start the frontend by running ```npm run dev``` and backend with ```node server.js```. The app should start running on [http://localhost:5173/editor](http://localhost:5173/editor)
 
+# Notes
+
+Looking to deploy the app soon, and update the documentation so there's more than just text!
